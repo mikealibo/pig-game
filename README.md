@@ -2,8 +2,9 @@
 
 * RULES :
 
-score = global score
-round score = current score collected into the dice roll
+ : score = global score
+
+ : round score = current score collected into the dice roll
 
 - The game has 2 players, playing in rounds
 - The first player who reach the score of 100 score will be the winner.
