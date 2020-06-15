@@ -1,11 +1,11 @@
 # pig-game
 
-* RULES :
+- score = global score
 
- : score = global score
+- round score = current score collected into the dice roll
 
- : round score = current score collected into the dice roll
 
+# RULES :
 - The game has 2 players, playing in rounds
 - The first player who reach the score of 100 score will be the winner.
 - "ROLL" has the ability to roll the dice and add it into your round score.
