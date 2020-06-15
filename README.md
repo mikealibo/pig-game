@@ -1,6 +1,7 @@
 # pig-game
 
-* RULES:
+* RULES :
+
 score = global score
 round score = current score collected into the dice roll
 
